@@ -20,6 +20,6 @@
     "@truffle/hdwallet-provider": "^1.0.35",
     "chai": "^4.2.0",
     "ganache-cli": "^6.9.1",
-    "mocha": "^8.0.1"
+    "mocha": "^8.4.0"
   }
 }
